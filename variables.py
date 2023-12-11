@@ -4,6 +4,12 @@ ROOT_DIR = Path(__file__).parent
 FILES_DIR = ROOT_DIR/'files'
 WINDOW_ICON_PATH = FILES_DIR/'icon.png'
 
+# Cores
+
+PRIMARY_COLOR = '#1E81b0'
+DARKER_PRIMARY_COLOR = '#166588a'
+DARKEST_PRIMARY_COLOR = '#115270'
+
 # Tema
 
 BIG_FONT_SIZE = 40
